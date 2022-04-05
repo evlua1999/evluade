@@ -94,7 +94,7 @@ de: &DEFAULT_DE
     people:
       - name: "Luisa Gebhardt"
         role: "Depp vom Dienst"
-        image: assets/img/team/500x500.jpg
+        image: assets/img/custom/IMG_2846.jpg
         social:
           - url: https://instagram.com/elu1999
             icon: "fab fa-instagram"
